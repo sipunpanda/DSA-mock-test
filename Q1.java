@@ -23,10 +23,10 @@ public class Main {
         int[] nums = {0, 1, 0, 3, 12};
         moveZeroes(nums);
         
-        // Print the resulting array
+        
         for (int num : nums) {
             System.out.print(num + " ");
         }
-        // Output: 1 3 12 0 0
+        
     }
 }
